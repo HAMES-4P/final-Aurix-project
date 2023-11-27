@@ -24,7 +24,7 @@
 
 ### 1. Directory Structure
 
-![Alt text](Directory_Tree.png)
+![image](https://github.com/HAMES-4P/final-Aurix-project/assets/94425657/f739ecf5-6633-459f-97ad-bdd836127529)
 
 <hr>
 
